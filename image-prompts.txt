@@ -1,0 +1,112 @@
+==================================================
+ABC라이프케어 랜딩 페이지 이미지 생성 프롬프트
+==================================================
+
+[사용 방법]
+1. 아래 각 "PROMPT" 블록의 영문 문장을 그대로 복사해 이미지 생성 AI(Midjourney, DALL·E, Imagen, Firefly 등)에 붙여넣으세요.
+2. 생성된 이미지를 표기된 파일명으로 저장하고, index.html과 같은 위치의 images/ 폴더에 넣으세요.
+   예) Desktop/images/hero.png
+3. 이미지가 없으면 페이지에는 파스텔 색상 박스가 대신 표시됩니다.
+4. 디자인 톤을 바꾸고 싶다면 각 프롬프트 끝의 공통 스타일 문장만 수정하면 됩니다.
+
+[공통 스타일 문장 — 모든 프롬프트 끝에 이미 포함됨]
+soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+
+--------------------------------------------------
+01. 히어로 메인 이미지
+파일명: hero.png   |   비율: 4:3 (가로형)   |   위치: 페이지 최상단 우측
+--------------------------------------------------
+PROMPT:
+A warm, modern illustration of a multi-generational Korean family (grandparents, parents and a young child) sitting together on a cozy sofa in a bright living room, smiling and talking calmly with a friendly counselor holding a tablet, potted plants and soft cushions around them, flat vector illustration with subtle grain texture, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 4:3 --style raw
+
+
+--------------------------------------------------
+02. 서비스 - 건강
+파일명: service-health.png   |   비율: 1:1   |   위치: 서비스 카드 1
+--------------------------------------------------
+PROMPT:
+A simple minimal illustration of a heart symbol combined with a stethoscope, a small green leaf and a glass of water on a soft blush pink background, rounded friendly shapes, flat vector style with soft shadows, centered object, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 1:1 --style raw
+
+
+--------------------------------------------------
+03. 서비스 - 재무
+파일명: service-finance.png   |   비율: 1:1   |   위치: 서비스 카드 2
+--------------------------------------------------
+PROMPT:
+A simple minimal illustration of a cute piggy bank with a small stack of coins, a gently rising bar chart and a sprouting plant on a soft butter yellow background, rounded friendly shapes, flat vector style with soft shadows, centered object, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 1:1 --style raw
+
+
+--------------------------------------------------
+04. 서비스 - 가족
+파일명: service-family.png   |   비율: 1:1   |   위치: 서비스 카드 3
+--------------------------------------------------
+PROMPT:
+A simple minimal illustration of a small house with a warm glowing window and three hands of different sizes (adult, elderly, child) gently stacked together in front of it, on a soft mint green background, rounded friendly shapes, flat vector style with soft shadows, centered object, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 1:1 --style raw
+
+
+--------------------------------------------------
+05. 서비스 - 은퇴
+파일명: service-retire.png   |   비율: 1:1   |   위치: 서비스 카드 4
+--------------------------------------------------
+PROMPT:
+A simple minimal illustration of a cozy wooden armchair beside a window with a calm sunset, a cup of tea, an open book and a small watering can for a home garden, on a soft lavender background, rounded friendly shapes, flat vector style with soft shadows, centered object, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 1:1 --style raw
+
+
+--------------------------------------------------
+06. 진행 방식 STEP 01 - 신청
+파일명: step-1-apply.png   |   비율: 16:10   |   위치: 진행 방식 1단계
+--------------------------------------------------
+PROMPT:
+A minimal illustration of a person in their 40s comfortably filling out a simple online form on a smartphone at a tidy desk with a coffee mug and a small plant, a floating checklist card with check marks beside them, flat vector style with soft shadows, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 16:10 --style raw
+
+
+--------------------------------------------------
+07. 진행 방식 STEP 02 - 전문가 배정
+파일명: step-2-match.png   |   비율: 16:10   |   위치: 진행 방식 2단계
+--------------------------------------------------
+PROMPT:
+A minimal illustration of four friendly professional counselors (a doctor, a financial planner, a family counselor and a retirement advisor) standing side by side, with one of them gently highlighted by a soft glowing circle and a connecting dotted line, representing matching the right expert, flat vector style with soft shadows, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 16:10 --style raw
+
+
+--------------------------------------------------
+08. 진행 방식 STEP 03 - 맞춤 상담
+파일명: step-3-consult.png   |   비율: 16:10   |   위치: 진행 방식 3단계
+--------------------------------------------------
+PROMPT:
+A minimal illustration of a one-on-one consultation: a friendly counselor and a middle-aged client sitting across a small round table, talking warmly over a tablet showing a simple plan, with a small video-call screen icon and a phone icon floating in the background to suggest phone, video and in-person options, flat vector style with soft shadows, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 16:10 --style raw
+
+
+--------------------------------------------------
+09. 상담 신청 섹션 이미지
+파일명: apply.png   |   비율: 4:3   |   위치: 상담 신청 폼 좌측
+--------------------------------------------------
+PROMPT:
+A calm, inviting consultation room interior with two comfortable armchairs facing each other, a small side table with tea cups, large window with sheer curtains, indoor plants and soft rug, no people, serene and welcoming atmosphere, soft 3D render style with matte textures, soft pastel color palette of powder blue, blush pink, mint green, butter yellow and lavender, minimal and clean composition, gentle natural light, warm and trustworthy mood, plenty of negative space, no text, no logos, no watermark
+
+Midjourney 사용 시 끝에 추가: --ar 4:3 --style raw
+
+
+==================================================
+[스타일 변경 팁]
+- 실사 사진 느낌으로 바꾸려면 "flat vector style with soft shadows" 를
+  "editorial lifestyle photography, shot on 35mm, shallow depth of field" 로 교체
+- 3D 느낌으로 통일하려면 "soft 3D clay render style, matte textures" 로 교체
+- 메인 컬러를 바꾸면 index.html 상단 :root 의 --brand, --accent-1~4 값도 함께 맞춰 주세요.
+==================================================
